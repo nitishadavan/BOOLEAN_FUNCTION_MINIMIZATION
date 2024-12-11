@@ -51,10 +51,10 @@ RegisterNumber:24901049
 
 
 **RTL**
+
+
+
 ![image](https://github.com/user-attachments/assets/544faabc-65fa-4e92-b401-cbbb1fbefcc3)
-
-
-
 
 **Result:**
 
